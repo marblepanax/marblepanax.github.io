@@ -5,7 +5,7 @@ permalink: /product/
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/header.webp
   actions:
     - label: "Learn More"
       url: "/terms/"
