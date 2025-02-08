@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "dark" #default" # "air", "aqua", "contrast", "dark",
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "BigData Seek"
+title                    : "Marble Panax"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "KIM DONG-CHEOL"
+name                     : ""
 description              : "An amazing website."
-url                      : "https://bigdataseek.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://marblepanax.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -113,18 +113,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "KIM DONG-CHEOL"
-  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a **DATA SCIENTIST**."
+  name             : "Marble Panax"
+  avatar           : "/assets/images/rg3.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : ""
   location         : "KOREA"
   email            : 
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bigdataseek/bigdataseek.github.io"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/marblepanax/marblepanax.github.io"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:bigdataseek@gmail.com"
+      url: "mailto:marblepanax@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
